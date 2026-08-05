@@ -23,4 +23,3 @@ A personal, blog-style portfolio built with semantic HTML5 by Selam Dilnesa. Thi
 ├── images/           # Folder containing photos (e.g., fam.jpg)
 └── videos/           # Folder containing video media
 
-# selam-personal-portfolio
